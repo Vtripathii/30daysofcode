@@ -1,0 +1,9 @@
+Day 21 cannot be solved in python
+So here is a solution in Java
+
+public static<E> void printArray(E[] array){
+
+       for(E element : array){
+           System.out.println(element);
+       }
+   }
